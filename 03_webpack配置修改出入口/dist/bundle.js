@@ -1,0 +1,1 @@
+(()=>{"use strict";const o=10,c=function(){return 2};console.log(o),console.log(c()),console.log(30),console.log([1,2,3,4,5].reduce(((o,c)=>o+c),0))})();

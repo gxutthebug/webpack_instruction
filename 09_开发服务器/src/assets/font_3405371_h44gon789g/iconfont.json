@@ -1,0 +1,30 @@
+{
+  "id": "3405371",
+  "name": "三班李倩",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "28527645",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "ecd6",
+      "unicode_decimal": 60630
+    },
+    {
+      "icon_id": "28527646",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "ecd7",
+      "unicode_decimal": 60631
+    },
+    {
+      "icon_id": "28527647",
+      "name": "会员",
+      "font_class": "huiyuan",
+      "unicode": "ecd8",
+      "unicode_decimal": 60632
+    }
+  ]
+}

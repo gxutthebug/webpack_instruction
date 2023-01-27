@@ -1,0 +1,1 @@
+export const getArrsum=arr=>arr.reduce((sum,val)=>sum+=val,0)

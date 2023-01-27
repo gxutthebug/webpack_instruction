@@ -1,0 +1,39 @@
+li{
+    list-style: none;
+}
+.aa{
+    width: 300px;
+    height: 400px;
+    background-color: rgb(217, 250, 215);
+}
+.bb{
+    width: 40px;
+    height: 40px;
+    background-color: aqua;
+    background: url("../assets/logo_small.png") no-repeat;
+}
+.cc{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    background-color: antiquewhite;  
+}
+
+.dd{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    background-color: rgb(16, 216, 16);
+
+}
+body{
+    background: url("../assets/1.gif")  no-repeat;
+}
+
+.icon {
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
+  }
