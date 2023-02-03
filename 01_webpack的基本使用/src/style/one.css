@@ -1,0 +1,26 @@
+
+.aa{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+}
+
+.ff{
+    width: 300px;
+    height: 300px;
+    background-image:url('../asset/img/car.png')
+}
+
+
+.icon {
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
+  }
+
+i{
+    font-size: 50px;
+    color: brown;
+}
